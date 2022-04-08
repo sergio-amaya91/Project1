@@ -1,0 +1,25 @@
+{
+  "sPrivateKey": "MEECAQAwEwYHKoZIzj0CAQYIKoZIzj0DAQcEJzAlAgEBBCD5ywoIPEaeO7k1HYpFzzLGTgSY5AEwNxWpLkE3t23UJw==",
+  "sPublicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEaUxdNhdob8dGF/szTWGQnX4gmzrquun5kO+y7I9FLzdKgfk7jWAfA4eaA34cgPut2UBUAODcmEQCmd5Bp3Utvw==",
+  "lstItemIds": [
+    "957a57c9-0eb2-41db-8238-45d44af104e1",
+    "4489f4d3-efee-4467-82b3-421c2c437897",
+    "8b62af9f-95ff-44c2-9e53-4c68c1df650f",
+    "e1ad4109-8282-4e03-bfcc-4946213d9737",
+    "5435c2b5-68fb-4c5f-9a45-d6705484c1a7",
+    "2f0ad9ab-c091-47b3-8c9d-98f0fe65833c",
+    "1cc9157b-76c7-41b2-ad7b-d75465ef379f",
+    "696bafed-e7d3-435f-b5f2-dd6835b104dd",
+    "19824f66-015c-47cb-adba-29145966a933",
+    "1c0169a5-4e36-4f0a-90c1-f1e77ba865ca",
+    "7cb9904d-1954-48b6-adab-689e17028ee7",
+    "fde8b6d8-028b-493c-806d-53bbb7f06550",
+    "01ae0b51-5f8d-437f-9fcb-5fa3e338eeb6",
+    "7d8e8e44-6094-4997-92bc-2f3d432cb548",
+    "113f825a-45c4-462e-b896-b81acdf3e27d",
+    "373ee7a6-cac8-4f63-b1a3-1e0a391f39ac"
+  ],
+  "fBalance": 999968.5,
+  "sUsername": "oz",
+  "bWalletReady": true
+}
